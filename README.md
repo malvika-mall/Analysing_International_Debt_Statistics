@@ -25,7 +25,7 @@ The data used in this project is sourced from the World Bank’s International D
 
 ## Contents
 - [international_debt_all.csv](international_debt_all.csv) CSV file containing international debt data with columns for country name, indicator name, and year from 2006 to 2022.
-- `analysis_scripts/`: Folder containing SQL scripts for analyzing international debt statistics.
+- [analysis_scripts](SQL Queries): Folder containing SQL scripts for analyzing international debt statistics.
 
 ## Analysis
 The analysis includes various SQL scripts for analyzing international debt statistics, such as trend analysis, comparative analysis, debt sustainability analysis, debt composition analysis, correlation analysis, and more.
