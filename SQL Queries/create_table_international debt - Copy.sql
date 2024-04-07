@@ -1,0 +1,23 @@
+CREATE TABLE international_debt (
+  country_name character varying(50),
+  country_code character varying(50),
+  indicator_name text,
+  indicator_code text,
+  year_2006 numeric,
+  year_2007 numeric,
+  year_2008 numeric,
+  year_2009 numeric,
+  year_2010 numeric,
+  year_2011 numeric,
+  year_2012 numeric,
+  year_2013 numeric,
+  year_2014 numeric,
+  year_2015 numeric,
+  year_2016 numeric,
+  year_2017 numeric,
+  year_2018 numeric,
+  year_2019 numeric,
+  year_2020 numeric,
+  year_2021 numeric,
+  year_2022 numeric
+);
