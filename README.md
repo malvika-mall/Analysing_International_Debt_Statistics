@@ -106,6 +106,10 @@ CROSS JOIN
 WHERE 
     year BETWEEN 2006 AND 2022;
 ```
+Understanding this correlation provides valuable insights into the relationship between a country's debt levels and time, which can help in assessing the dynamics of debt accumulation over the years.
+
+The correlation coefficient, ranging from -1 to 1, indicates the strength and direction of the linear relationship between debt and time. A positive correlation suggests that as the years progress, the total debt tends to increase, while a negative correlation implies a decrease in debt over time. A correlation close to zero indicates a weak relationship between debt and time.
+
 ## Recommendations:
 
 1. **Debt Management:** Understanding total debt and repayment trends is crucial for effective debt management. Governments can use this information to make informed decisions on borrowing and repayment strategies.
