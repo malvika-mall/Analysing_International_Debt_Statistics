@@ -1,5 +1,7 @@
 # International Debt Statistics
+<center>
 ![img](https://www.worldbank.org/content/dam/photos/780x439/2023/dec/IDR2023-DataBank-780x439-12-06-2023.png)
+</center>center>
 ## Overview
 Over the past 50 years, the World Bank’s International Debt Statistics has become the most important and transparent source of external debt data of low- and middle-income countries. This repository contains data and analyses related to international debt statistics from 2006 to 2022.
 
