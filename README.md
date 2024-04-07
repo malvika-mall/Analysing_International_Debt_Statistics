@@ -1,7 +1,7 @@
 # International Debt Statistics
 <center>
 
-![iDS]((https://www.worldbank.org/content/dam/photos/780x439/2023/dec/IDR2023-DataBank-780x439-12-06-2023.png))
+![IDS](https://www.worldbank.org/content/dam/photos/780x439/2023/dec/IDR2023-DataBank-780x439-12-06-2023.png)
 
 </center>
 
