@@ -12,6 +12,6 @@ SELECT
     country_name,
     CORR(debt, year) AS debt_year_correlation 
 FROM total_debt
-CROSS JOIN generate_series(2006, 2022) AS year
+CROSS JOIN generate_series(2006, 2022) AS year --to generate a series of years from 2006 to 2022. This ensures that for each country, there's a row for each year in that range.
 WHERE year BETWEEN 2006 AND 2022 
 GROUP BY country_name;
